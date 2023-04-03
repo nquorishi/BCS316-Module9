@@ -1,0 +1,4 @@
+This line contains 1 space
+This  line contains 2 spaces
+This   line contains 3 spaces
+This line contains no spaces
